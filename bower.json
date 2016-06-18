@@ -18,6 +18,7 @@
     "less/bootstrap.less",
     "dist/js/bootstrap.js"
   ],
+  
   "ignore": [
     "/.*",
     "_config.yml",
